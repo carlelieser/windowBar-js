@@ -28,4 +28,4 @@ $('.example-wrapper').initializeWindowBar('#526262');
 ```
 
 ## License
-windowBar.js is licensed under the MIT License.
+Copyright (c) 2016 Carlos Santos. See the LICENSE file for license rights and limitations (MIT).
