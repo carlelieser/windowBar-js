@@ -12,3 +12,6 @@ Enter a hexadecimal value as a string to change the color of the window bar. The
 ```javascript
 $('.example-wrapper').initializeWindowBar('#526262');
 ```
+
+## License
+windowBar.js is licensed under the MIT License.
