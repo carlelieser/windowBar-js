@@ -2,18 +2,18 @@
 A jQuery plugin for chrome packaged apps that creates a simple, customizable and functional window bar. 
 
 ## Example
-** Link CSS **
+**Link CSS**
 ```html
 <link type="text/css" rel="stylesheet" href="windowBar.css"/>
 ```
-** Link Plugin **
+**Link Plugin**
 ```html
 <!-- load jQuery first -->
 <script src="jquery-2.2.1.min.js"></script>
 <script src="windowBar.js"></script>
 <script src="app.js"></script>
 ```
-** Initialize windowBar **
+**Initialize windowBar**
 ```javascript
 $('.example-wrapper').initializeWindowBar();
 ```
