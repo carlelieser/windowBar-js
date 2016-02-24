@@ -3,6 +3,7 @@ A jQuery plugin for chrome packaged apps that creates a simple, customizable and
 
 ## Example
 See [test](https://github.com/carlelieser/windowBar.js/tree/master/test) for a complete chrome packaged app showcasing windowBar.js
+
 **Link CSS**
 ```html
 <link type="text/css" rel="stylesheet" href="windowBar.css"/>
